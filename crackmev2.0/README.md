@@ -1,11 +1,11 @@
 # crackmes-solutions
 
 # Решение CrackMe "Simple Code"
-https://crackmes.one/crackme/66a64ff190c4c2830c8212da 
+https://crackmes.one/crackme/6793a6eb73b486c1ed429e84
 
 ## Информация
 - **Платформа**: Windows PE32
-- **Защита**: Проверка ключа через SHA256
+- **Защита**: Пароль
 - **Сложность**: Легкая
 
 ## Анализ
