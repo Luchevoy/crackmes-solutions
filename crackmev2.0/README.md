@@ -29,9 +29,9 @@ https://crackmes.one/crackme/6793a6eb73b486c1ed429e84
    - Расшифровываем потому же принципу что и слово CRACKME и получаем HAIBALLAD
    - У нас получилось HAIBALLAD-2005-CRACKME
    - Проверяем!
-   ![изображение](https://github.com/user-attachments/assets/5de90c1f-4865-4594-adcf-f8f2bf646f92)
-   ![изображение](https://github.com/user-attachments/assets/9d3022f8-384d-4a60-b733-3c287136415d)
-   -Да и всё верно в итоге
+   - ![изображение](https://github.com/user-attachments/assets/5de90c1f-4865-4594-adcf-f8f2bf646f92)
+   - ![изображение](https://github.com/user-attachments/assets/9d3022f8-384d-4a60-b733-3c287136415d)
+   - Да и всё верно в итоге
 
 
    
