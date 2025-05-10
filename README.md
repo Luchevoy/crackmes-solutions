@@ -6,7 +6,8 @@
 ## Информация
 1. **Легкие задачи**
    - 1-2 сложность
-   - /crackmes-solutions/crackmev2.0
+   - [Crackmev2.0](https://github.com/Luchevoy/crackmes-solutions/tree/main/crackmev2.0)
+   - [Simplecode](https://github.com/Luchevoy/crackmes-solutions/tree/main/simplecode-crackme)
 
 
 2. **Средние задачи**
