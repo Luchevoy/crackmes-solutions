@@ -6,7 +6,7 @@
 ## Информация
 1. **Легкие задачи**
    - 1-2 сложность
-   - /cracmes-solutions/crackmev2.0
+   - /crackmes-solutions/crackmev2.0
 
 
 2. **Средние задачи**
